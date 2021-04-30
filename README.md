@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sukkaaa
 - 👀 I’m interested in game development
-- 🌱 I’m currently stdying computer science
+- 🌱 I’m currently studying computer science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
