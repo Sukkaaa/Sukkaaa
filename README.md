@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Sukkaaa
-- 👀 I’m interested in game development
-- 🌱 I’m currently studying computer science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, I’m @Sukkaaa
+- I’m interested in game development
+- I’m currently studying software engineering
 
 <!---
 Sukkaaa/Sukkaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
