@@ -1,4 +1,5 @@
 ## Hi there 👋
+![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/Sukkaaa/Sukkaaa/assets/79850036/fa32abe0-2d14-4b9f-8d5d-1d917d7dfc9c)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sukkaaa&show_icons=true&theme=tokyonight)](https://github.com/Sukkaaa/github-readme-stats)
