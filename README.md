@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sukkaaa)](https://github.com/Sukkaaa/github-readme-stats)
+
 <!--
 **Sukkaaa/Sukkaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
