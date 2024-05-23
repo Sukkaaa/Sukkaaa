@@ -1,4 +1,4 @@
-![giphy](https://github.com/Sukkaaa/Sukkaaa/assets/79850036/6e5dd9c0-830b-4160-b7cf-16d5d896c900)
+
 
 
 <div style="display: flex; align-items: center;">
