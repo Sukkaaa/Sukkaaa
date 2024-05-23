@@ -11,16 +11,12 @@
 
 
 
-<div style="display: flex; align-items: center;">
-  <a href="https://github.com/Sukkaaa/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sukkaaa&show_icons=true&theme=tokyonight" width="400" />
-  </a>
-  <a href="https://github.com/Sukkaaa/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukkaaa&show_icons=true&theme=tokyonight" width="400" />
-  </a>
-</div>
-
-
+<a href="https://github.com/Sukkaaa/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sukkaaa&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/Sukkaaa/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukkaaa&show_icons=true&theme=tokyonight" />
+</a>
 <!--
 **Sukkaaa/Sukkaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
