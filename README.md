@@ -2,9 +2,9 @@
 
 <div style="display: flex; align-items: center;">
   <a href="https://github.com/Sukkaaa/Sukkaaa/assets/79850036/fa32abe0-2d14-4b9f-8d5d-1d917d7dfc9c">
-    <img src="https://github.com/Sukkaaa/Sukkaaa/assets/79850036/fa32abe0-2d14-4b9f-8d5d-1d917d7dfc9c" width="300" />
+    <img src="https://github.com/Sukkaaa/Sukkaaa/assets/79850036/fa32abe0-2d14-4b9f-8d5d-1d917d7dfc9c" width="200" />
   </a>
-  <img src="https://github.com/Sukkaaa/Sukkaaa/assets/79850036/ee891413-c592-467e-ad18-eeed24048a76" width="300" />
+  <img src="https://github.com/Sukkaaa/Sukkaaa/assets/79850036/ee891413-c592-467e-ad18-eeed24048a76" width="500" />
 </div>
 
 
