@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <a href="https://github.com/Sukkaaa/Sukkaaa/assets/79850036/fa32abe0-2d14-4b9f-8d5d-1d917d7dfc9c">
-  <img src="https://github.com/Sukkaaa/Sukkaaa/assets/79850036/fa32abe0-2d14-4b9f-8d5d-1d917d7dfc9c" width="500" />
+  <img src="https://github.com/Sukkaaa/Sukkaaa/assets/79850036/fa32abe0-2d14-4b9f-8d5d-1d917d7dfc9c" width="700" />
 </a>
 
 
