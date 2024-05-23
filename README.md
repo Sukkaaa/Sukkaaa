@@ -1,4 +1,4 @@
-## Hi there 👋
+<iframe src="https://giphy.com/embed/l0JMaNj0xZ6cDFLvq" width="480" height="283" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pixels-eggs-paulrobertson-l0JMaNj0xZ6cDFLvq">via GIPHY</a></p>
 
 <div style="display: flex; align-items: center;">
   <a href="https://github.com/Sukkaaa/Sukkaaa/assets/79850036/fa32abe0-2d14-4b9f-8d5d-1d917d7dfc9c">
